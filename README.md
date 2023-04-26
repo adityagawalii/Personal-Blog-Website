@@ -9,7 +9,9 @@ Features:
 5. Contact page with a form to send me a message.
 
 Contributing:
+
 If you find a bug or have a feature request, please open an issue on this repository. Pull requests are also welcome.
 
 License:
+
 This project is licensed under the [insert license here] license.
